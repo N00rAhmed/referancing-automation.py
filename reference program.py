@@ -7,5 +7,5 @@ u = '(' + yr + ')'
 e = print(h + ' ' + u + ' ' + tl + ' ' + '[online] ' + 'Address: ' + url + '[accessed: ' + d + ']')
 
 
-#(h + ' ' + u + ' ' + tl + ' ' + '[online] ' + 'Address: ' + url + '[accessed: ' + d + ']') 
+#(h + ' ' + u + ' ' + tl + ' ' + '[online] ' + 'Address: ' + url + ' [accessed: ' + d + ']') 
 
